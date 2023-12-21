@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/novojoiasvip/": "./",
+
     "deco-sites/storefront-linx/": "./",
 
     "$store/": "./",
